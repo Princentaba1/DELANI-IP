@@ -114,14 +114,14 @@ textarea[type=text] {
         position: absolute;
         top: 40%;
         left: 30%;
-        color: rgb(255, 255, 255);
+        color: rgb(248, 248, 248);
         }
     #Hover_design2{
         display: none;
         position: absolute;
         top: 40%;
         left: 30%;
-        color: rgb(0, 204, 255);
+        color: rgb(0, 255, 191);
         }
     #Hover_design3{
         display: none;
