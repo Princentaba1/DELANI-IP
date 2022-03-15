@@ -17,3 +17,9 @@ body{
     bottom: 5vh;
     left: 48%;
     }
+.text1{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+    
