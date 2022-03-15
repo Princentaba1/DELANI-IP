@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+    }
+.container{
+    background-image: url(../ip-images/Backgrouds/h_img.jpeg);
+    background-size:cover;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: white;
+    }
+.mouse{
+    position: absolute;
+    bottom: 5vh;
+    left: 48%;
+    }
