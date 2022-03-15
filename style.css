@@ -57,3 +57,11 @@ body{
 .random3{
     display: none;
     }
+.custom-info-on-portfolio-images {
+    height: 280px;
+    max-width: 280px;
+    padding:2px;
+    }
+.row{
+    padding:2%;
+    }
