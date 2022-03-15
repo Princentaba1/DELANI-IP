@@ -65,3 +65,104 @@ body{
 .row{
     padding:2%;
     }
+.Contact-Us{
+    background-image: url(../ip-images/Backgrouds/c_image.jpeg)
+    }
+form #contact{
+    background-color: rgba(0, 0, 0, 0);
+    }
+          
+input[type=text] {
+    background:transparent;
+    color: white;
+    }
+textarea[type=text] {
+    background:transparent;
+        color: white;
+    }
+          
+.submit{
+    position:absolute;
+    padding-left: 40%;
+    }
+#work1{
+    position: relative;
+    }
+#work2{
+    position: relative;
+    }
+#work3{
+    position: relative;
+    }
+#work4{
+    position: relative;
+    }
+#work5{
+    position: relative;
+    }
+#work6{
+    position: relative;
+    } 
+#work7{
+    position: relative;
+    }
+#work8{
+    position: relative;
+    }
+#Hover_design{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(255, 255, 255);
+    }
+#Hover_design2{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(0, 204, 255);
+    }
+#Hover_design3{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    }
+#Hover_design4{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(255, 246, 246);
+    }
+#Hover_design5{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    }
+#Hover_design6{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    }
+#Hover_design7{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(255, 255, 255);
+    }
+#Hover_design8{
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: rgb(255, 255, 255);
+    }
+        
