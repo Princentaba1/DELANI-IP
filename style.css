@@ -109,27 +109,27 @@ textarea[type=text] {
 #work8{
     position: relative;
     }
-#Hover_design{
-    display: none;
-    position: absolute;
-    top: 40%;
-    left: 30%;
-    color: rgb(255, 255, 255);
-    }
-#Hover_design2{
-    display: none;
-    position: absolute;
-    top: 40%;
-    left: 30%;
-    color: rgb(0, 204, 255);
-    }
-#Hover_design3{
-    display: none;
-    position: absolute;
-    top: 40%;
-    left: 30%;
-    color: rgb(0, 0, 0);
-    }
+    #Hover_design{
+        display: none;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+        color: rgb(255, 255, 255);
+        }
+    #Hover_design2{
+        display: none;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+        color: rgb(0, 204, 255);
+        }
+    #Hover_design3{
+        display: none;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+        color: rgb(0, 0, 0);
+        }
 #Hover_design4{
     display: none;
     position: absolute;
