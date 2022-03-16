@@ -66,7 +66,7 @@ body{
     padding:2%;
     }
 .Contact-Us{
-    background-image: url(../ip-images/Backgrouds/c_image.jpeg)
+    background-image: url(./ip-images/Backgrouds/c_image.jpeg)
     }
 form #contact{
     background-color: rgba(0, 0, 0, 0);
